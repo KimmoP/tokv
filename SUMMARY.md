@@ -1,7 +1,7 @@
 # Summary
 
 * [Johdanto](README.md)
-* [Hyppääjää koskevat ohjeet](hyppaaja/ohjeet/index)
+* [Hyppääjää koskevat ohjeet](hyppaaja/ohjeet/Hyppaajaa-koskevat-ohjeet.md)
    * [Ohjeet hyppyrajoista ja -varustuksesta](hyppaaja/ohjeet/hyppyrajat-varusteet)
        * [Itsenäisen hyppääjän varusteista](hyppaaja/ohjeet/hyppyrajat-varusteet/itsenainen-hyppaaja.md)
        * [Oppilashyppääjän varusteet](hyppaaja/ohjeet/hyppyrajat-varusteet/oppilas.md)
@@ -47,6 +47,4 @@
        * [Näytöshyppyalueet ja -olosuhteet](vaatimukset-oikeudet/organisaatio/naytoshyppy/olosuhteet)
        * [Näytöshypyn suoritus](vaatimukset-oikeudet/organisaatio/naytoshyppy/suoritus)
        * [Vaatimuksia hyppääjälle ja kalustolle](vaatimukset-oikeudet/organisaatio/naytoshyppy/hyppaaja-kalusto)
-
-[Liitteet](liitteet)
 
