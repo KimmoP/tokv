@@ -4,7 +4,7 @@
 * [Hyppääjää koskevat ohjeet](hyppaaja/ohjeet/index)
    * [Ohjeet hyppyrajoista ja -varustuksesta](hyppaaja/ohjeet/hyppyrajat-varusteet)
        * [Itsenäisen hyppääjän varusteista](hyppaaja/ohjeet/hyppyrajat-varusteet/itsenainen-hyppaaja.md)
-       * [Oppilashyppääjän varusteet](hyppaaja/ohjeet/hyppyrajat-varusteet/oppilas)
+       * [Oppilashyppääjän varusteet](hyppaaja/ohjeet/hyppyrajat-varusteet/oppilas.md)
        * [Siipikuormat](hyppaaja/ohjeet/hyppyrajat-varusteet/siipikuormat)
        * [Kamerahyppääminen](hyppaaja/ohjeet/hyppyrajat-varusteet/kamerahyppaaminen)
        * [Liitopukuhyppääminen](hyppaaja/ohjeet/hyppyrajat-varusteet/liitopukuhyppaaminen)
