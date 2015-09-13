@@ -33,6 +33,7 @@
        * [Vapaapudotuskouluttaja (VPK)](vaatimukset-oikeudet/kouluttaja/vpk.md)
        * [Pakkolaukaisuhyppymestari (PL-HM)](vaatimukset-oikeudet/kouluttaja/plhm.md)
        * [Novahyppymestari (NHM)](vaatimukset-oikeudet/kouluttaja/nhm.md)
+       * [Tandemhyppymestari (THM)](vaatimukset-oikeudet/kouluttaja/thm.md)
 * [Organisaation vaatimukset](vaatimukset-oikeudet/organisaatio)
    * [Hyppypaikalle ja maalialueelle asetetut vaatimukset](vaatimukset-oikeudet/organisaatio/hyppypaikka)
    * [Hyppytoiminnnan ja -turvallisuuden valvominen](vaatimukset-oikeudet/organisaatio/toiminta-turvallisuus)
