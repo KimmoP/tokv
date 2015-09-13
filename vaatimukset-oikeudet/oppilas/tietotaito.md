@@ -1,4 +1,6 @@
 
+# Tieto-, taito- ja kokemusvaatimukset
+
 ## Oppilas
 
 Henkilöllä pitää olla SIL koulutusohjelmassa määritellyt tiedot ja taidot, jotka tulee osoittaa määritellyillä kokeilla, sekä hänen tulee olla suorittanut koulutusohjelmassa määrätyt hypyt hyväksytysti. Hyväksytyssä kirjallisessa kokeessa on vastattu vähintään 70 prosenttiin koekysymyksistä hyväksyttävästi. Käytännön kokeissa hyppymestari arvioi, mikä on kuhunkin koulutukseen riittävä osaamisen taso.
