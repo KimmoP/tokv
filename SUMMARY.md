@@ -26,10 +26,12 @@
         * [2.2.1 Lääketieteelliset vaatimukset](vaatimukset-oikeudet/lisenssit/laaketieteelliset.md)
         * [2.2.2 Laskuvarjohyppääjän A-lisenssi](vaatimukset-oikeudet/lisenssit/a.md)
         * [2.2.3 Laskuvarjohyppääjän B-lisenssin vaatimukset, voimassaolo, toteaminen ja oikeudet](vaatimukset-oikeudet/lisenssit/b.md)
-
-
-
-
+        * [2.2.4 Laskuvarjohyppääjän C-lisenssin vaatimukset, voimassaolo, toteaminen ja oikeudet](vaatimukset-oikeudet/lisenssit/c.md)
+        * [2.2.5 Laskuvarjohyppääjän D-lisenssin vaatimukset, voimassaolo, toteaminen ja oikeudet](vaatimukset-oikeudet/lisenssit/d.md)
+    *  [2.3 Kouluttajakelpoisuusvaatimukset, uusimisperiaatteet ja oikeudet](vaatimukset-oikeudet/kouluttaja.md)
+        * [2.3.1 Lääketieteelliset vaatimukset](vaatimukset-oikeudet/kouluttaja/laaketieteelliset.md)
+        * [2.3.2 Vapaapudotuskouluttaja (VPK)](vaatimukset-oikeudet/kouluttaja/vpk.md)
+        * [2.3.3 Pakkolaukaisuhyppymestari (PL-HM)](vaatimukset-oikeudet/kouluttaja/plhm.md)
 
 
 
