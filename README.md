@@ -1,7 +1,7 @@
 Johdanto
 =======
 
-Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset sääntelevät laskuvarjohyppäämistä ja ohjaavat hyppytoimintaa. Niiden tarkoituksena on antaa suuntaviivoja ja suosituksia niin laskuvarjohyppääjille **kuin** laskuvarjohyppyorganisaatioille.
+Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset sääntelevät laskuvarjohyppäämistä ja ohjaavat hyppytoimintaa. Niiden tarkoituksena on antaa suuntaviivoja ja suosituksia niin laskuvarjohyppääjille kuin laskuvarjohyppyorganisaatioille.
 
 Ohjeet on jaettu kolmeen osaan:
 
