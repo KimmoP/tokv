@@ -11,7 +11,7 @@
        * [Muu erikoishyppääminen](hyppaaja/ohjeet/hyppyrajat-varusteet/muu-erikoishyppaaminen.md)
    * [Tuulirajat](hyppaaja/ohjeet/hyppyrajat-varusteet/tuulirajat.md)
    * [Muualla hankitut kelpoisuudet](hyppaaja/ohjeet/hyppyrajat-varusteet/kelpoisuudet/muualla-hankitut.md)
-       * [Oppilaan kelpoisuus](hyppaaja/ohjeet/hyppyrajat-varusteet/kelpoisuudet/oppilas)
+       * [Oppilaan kelpoisuus](hyppaaja/ohjeet/hyppyrajat-varusteet/kelpoisuudet/oppilas.md)
        * [Kelpoisuuden muuttaminen](hyppaaja/ohjeet/hyppyrajat-varusteet/kelpoisuudet/muuttaminen)
        * [Laskuvarjohyppykouluttajan kelpoisuudet](hyppaaja/ohjeet/hyppyrajat-varusteet/kelpoisuudet/kouluttaja)
    * [Vaaratilanteesta ilmoittaminen](hyppaaja/ohjeet/hyppyrajat-varusteet/vaaratilanteet/ilmoittaminen)
