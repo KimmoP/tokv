@@ -1,8 +1,8 @@
 # Sisällysluettelo
 
-* [ Hyppääjää koskevat ohjeet](hyppaaja/ohjeet/index)
-    * [Ohjeet hyppyrajoista ja -varustuksesta](hyppyrajat-varusteet)
-        * [Itsenäisen hyppääjän varusteista](varusteet/itsenainen-hyppaaja)
+* [Hyppääjää koskevat ohjeet](hyppaaja/ohjeet/index)
+    * [Ohjeet hyppyrajoista ja -varustuksesta](hyppaaja/ohjeet/hyppyrajat-varusteet)
+        * [Itsenäisen hyppääjän varusteista](hyppaaja/ohjeet/hyppyrajat-varusteet/itsenainen-hyppaaja)
         * [Oppilashyppääjän varusteet](varusteet/oppilas)
         * [Siipikuormat](siipikuormat)
         * [Kamerahyppääminen](kamerahyppaaminen)
@@ -14,7 +14,7 @@
         * [Kelpoisuuden muuttaminen](kelpoisuudet/muuttaminen)
         * [Laskuvarjohyppykouluttajan kelpoisuudet](kelpoisuudet/kouluttaja)
     * [Vaaratilanteesta ilmoittaminen](vaaratilanteet/ilmoittaminen)
-* [2. Oppilas-, lisenssi- ja kouluttajavaatimukset sekä -oikeudet](vaatimukset-oikeudet/index)
+* [Oppilas-, lisenssi- ja kouluttajavaatimukset sekä -oikeudet](vaatimukset-oikeudet)
     * [2.1. Oppilaan vaatimukset ja oikeudet](vaatimukset-oikeudet/oppilas)
         * [2.1.1 Ikä](vaatimukset-oikeudet/oppilas/ika)
         * [2.1.2 Lääketieteelliset vaatimukset](vaatimukset-oikeudet/oppilas/laaketieteelliset)
