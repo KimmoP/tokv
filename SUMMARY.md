@@ -32,6 +32,12 @@
         * [2.3.1 Lääketieteelliset vaatimukset](vaatimukset-oikeudet/kouluttaja/laaketieteelliset.md)
         * [2.3.2 Vapaapudotuskouluttaja (VPK)](vaatimukset-oikeudet/kouluttaja/vpk.md)
         * [2.3.3 Pakkolaukaisuhyppymestari (PL-HM)](vaatimukset-oikeudet/kouluttaja/plhm.md)
+        * [2.3.4 Novahyppymestari (NHM)](vaatimukset-oikeudet/kouluttaja/nhm.md)
+        * [2.3.5 Tandemhyppymestari (THM)](vaatimukset-oikeudet/kouluttaja/nhm.md)
+* [3 Organisaation vaatimukset](vaatimukset-oikeudet/organisaatio.md)
+    * [3.1 Hyppypaikalle ja maalialueelle asetetut vaatimukset](vaatimukset-oikeudet/organisaatio/hyppypaikka.md)
+
+
 
 
 
