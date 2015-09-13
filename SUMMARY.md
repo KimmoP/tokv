@@ -21,7 +21,7 @@
        * [Lääketieteelliset vaatimukset](vaatimukset-oikeudet/oppilas/laaketieteelliset.md)
        * [Kelpoisuusluokan toteaminen](vaatimukset-oikeudet/oppilas/kelpoisuus.md)
        * [Tieto-, taito- ja kokemusvaatimukset](vaatimukset-oikeudet/oppilas/tietotaito.md)
-       * [Oikeudet](vaatimukset-oikeudet/oppilas/oikeudet)
+       * [Oikeudet](vaatimukset-oikeudet/oppilas/oikeudet.md)
    * [Lisenssivaatimukset ja lisenssinhaltijan oikeudet](vaatimukset-oikeudet/lisenssit)
        * [Lääketieteelliset vaatimukset](vaatimukset-oikeudet/lisenssit/laaketieteelliset)
        * [Laskuvarjohyppääjän A-lisenssi](vaatimukset-oikeudet/lisenssit/a)
