@@ -1,8 +1,7 @@
 # Sisällysluettelo
 
-* [Esipuhe](esipuhe.md)
-* [1. Hyppääjää koskevat ohjeet](hyppaaja/ohjeet/index)
-    * [1.1. Ohjeet hyppyrajoista ja -varustuksesta](hyppyrajat-varusteet)
+* [ Hyppääjää koskevat ohjeet](hyppaaja/ohjeet/index)
+    * [ Ohjeet hyppyrajoista ja -varustuksesta](hyppyrajat-varusteet)
         * [1.1.1 Itsenäisen hyppääjän varusteista](varusteet/itsenainen-hyppaaja)
         * [1.1.2 Oppilashyppääjän varusteet](varusteet/oppilas)
         * [1.1.3 Siipikuormat](siipikuormat)
@@ -34,7 +33,7 @@
         * [2.3.3 Pakkolaukaisuhyppymestari (PL-HM)](vaatimukset-oikeudet/kouluttaja/plhm)
         * [2.3.4 Novahyppymestari (NHM)](vaatimukset-oikeudet/kouluttaja/nhm)
         * [2.3.5 Tandemhyppymestari (THM)](vaatimukset-oikeudet/kouluttaja/nhm)
-* [3 Organisaation vaatimukset](vaatimukset-oikeudet/organisaatio/index)
+* [3 Organisaation vaatimukset](vaatimukset-oikeudet/organisaati)
     * [3.1 Hyppypaikalle ja maalialueelle asetetut vaatimukset](vaatimukset-oikeudet/organisaatio/hyppypaikka)
     * [3.2 Hyppytoiminnnan ja -turvallisuuden valvominen](vaatimukset-oikeudet/organisaatio/toiminta-turvallisuus)
     * [3.3 Koulutusilmoitus](vaatimukset-oikeudet/organisaatio/koulutusilmoitus)
@@ -47,6 +46,7 @@
         * [3.6.3 Luvat, ilmoitukset ja ehdot](vaatimukset-oikeudet/organisaatio/naytoshyppy/luvat)
         * [3.6.4 Näytöshyppyalueet ja -olosuhteet](vaatimukset-oikeudet/organisaatio/naytoshyppy/olosuhteet)
         * [3.6.5 Näytöshypyn suoritus](vaatimukset-oikeudet/organisaatio/naytoshyppy/suoritus)
+        * [3.6.6 Vaatimuksia hyppääjälle ja kalustolle](vaatimukset-oikeudet/organisaatio/naytoshyppy/hyppaaja-kalusto)
         
 
 
