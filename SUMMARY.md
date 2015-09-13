@@ -36,6 +36,10 @@
         * [2.3.5 Tandemhyppymestari (THM)](vaatimukset-oikeudet/kouluttaja/nhm.md)
 * [3 Organisaation vaatimukset](vaatimukset-oikeudet/organisaatio.md)
     * [3.1 Hyppypaikalle ja maalialueelle asetetut vaatimukset](vaatimukset-oikeudet/organisaatio/hyppypaikka.md)
+    * [3.2 Hyppytoiminnnan ja -turvallisuuden valvominen](vaatimukset-oikeudet/organisaatio/toiminta-turvallisuus.md)
+    * [3.3 Koulutusilmoitus](vaatimukset-oikeudet/organisaatio/koulutusilmoitus.md)
+    * [3.4 Koulutusorganisaatio](vaatimukset-oikeudet/organisaatio/koulutusorganisaatio.md)
+    * [3.5 Organisaation hyppytoiminnan dokumentointi](vaatimukset-oikeudet/organisaatio/koulutusilmoitus.md)
 
 
 
