@@ -25,7 +25,7 @@
    * [Lisenssivaatimukset ja lisenssinhaltijan oikeudet](vaatimukset-oikeudet/lisenssit.md)
        * [Lääketieteelliset vaatimukset](vaatimukset-oikeudet/lisenssit/laaketieteelliset.md)
        * [Laskuvarjohyppääjän A-lisenssi](vaatimukset-oikeudet/lisenssit/a.md)
-       * [Laskuvarjohyppääjän B-lisenssin vaatimukset, voimassaolo, toteaminen ja oikeudet](vaatimukset-oikeudet/lisenssit/b)
+       * [Laskuvarjohyppääjän B-lisenssin vaatimukset, voimassaolo, toteaminen ja oikeudet](vaatimukset-oikeudet/lisenssit/b.md)
        * [Laskuvarjohyppääjän C-lisenssin vaatimukset, voimassaolo, toteaminen ja oikeudet](vaatimukset-oikeudet/lisenssit/c)
        * [Laskuvarjohyppääjän D-lisenssin vaatimukset, voimassaolo, toteaminen ja oikeudet](vaatimukset-oikeudet/lisenssit/d)
    * [Kouluttajakelpoisuusvaatimukset, uusimisperiaatteet ja oikeudet](vaatimukset-oikeudet/kouluttaja)
