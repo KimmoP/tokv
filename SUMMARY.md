@@ -17,6 +17,18 @@
     * [1.4. Vaaratilanteesta ilmoittaminen](vaaratilanteet/ilmoittaminen.md)
 * [2. Oppilas-, lisenssi- ja kouluttajavaatimukset sekä -oikeudet](vaatimukset-oikeudet.md)
     * [2.1. Oppilaan vaatimukset ja oikeudet](vaatimukset-oikeudet/oppilas.md)
+        * [2.1.1 Ikä](vaatimukset-oikeudet/oppilas/ika.md)
+        * [2.1.2 Lääketieteelliset vaatimukset](vaatimukset-oikeudet/oppilas/laaketieteelliset.md)
+        * [2.1.3 Kelpoisuusluokan toteaminen](vaatimukset-oikeudet/oppilas/kelpoisuus.md)
+        * [2.1.4 Tieto-, taito- ja kokemusvaatimukset](vaatimukset-oikeudet/oppilas/tietotaito.md)
+        * [2.1.5 Oikeudet](vaatimukset-oikeudet/oppilas/oikeudet.md)
+    * [2.2 Lisenssivaatimukset ja lisenssinhaltijan oikeudet](vaatimukset-oikeudet/lisenssit.md)
+        * [2.2.1 Lääketieteelliset vaatimukset](vaatimukset-oikeudet/lisenssit/laaketieteelliset.md)
+        * [2.2.2 Laskuvarjohyppääjän A-lisenssi](vaatimukset-oikeudet/lisenssit/a.md)
+        * [2.2.3 Laskuvarjohyppääjän B-lisenssin vaatimukset, voimassaolo, toteaminen ja oikeudet](vaatimukset-oikeudet/lisenssit/b.md)
+
+
+
 
 
 
