@@ -10,7 +10,7 @@
        * [Liitopukuhyppääminen](hyppaaja/ohjeet/hyppyrajat-varusteet/liitopukuhyppaaminen.md)
        * [Muu erikoishyppääminen](hyppaaja/ohjeet/hyppyrajat-varusteet/muu-erikoishyppaaminen.md)
    * [Tuulirajat](hyppaaja/ohjeet/hyppyrajat-varusteet/tuulirajat.md)
-   * [Muualla hankitut kelpoisuudet](hyppaaja/ohjeet/hyppyrajat-varusteet/kelpoisuudet/muualla-hankitut)
+   * [Muualla hankitut kelpoisuudet](hyppaaja/ohjeet/hyppyrajat-varusteet/kelpoisuudet/muualla-hankitut.md)
        * [Oppilaan kelpoisuus](hyppaaja/ohjeet/hyppyrajat-varusteet/kelpoisuudet/oppilas)
        * [Kelpoisuuden muuttaminen](hyppaaja/ohjeet/hyppyrajat-varusteet/kelpoisuudet/muuttaminen)
        * [Laskuvarjohyppykouluttajan kelpoisuudet](hyppaaja/ohjeet/hyppyrajat-varusteet/kelpoisuudet/kouluttaja)
