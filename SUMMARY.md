@@ -39,7 +39,18 @@
     * [3.2 Hyppytoiminnnan ja -turvallisuuden valvominen](vaatimukset-oikeudet/organisaatio/toiminta-turvallisuus)
     * [3.3 Koulutusilmoitus](vaatimukset-oikeudet/organisaatio/koulutusilmoitus)
     * [3.4 Koulutusorganisaatio](vaatimukset-oikeudet/organisaatio/koulutusorganisaatio)
-    * [3.5 Organisaation hyppytoiminnan dokumentointi](vaatimukset-oikeudet/organisaatio/koulutusilmoitus)
+    * [3.5 Organisaation hyppytoiminnan dokumentointi](vaatimukset-oikeudet/organisaatio/dokumentointi)
+        * [3.5.1 Koulutuskirjanpito](vaatimukset-oikeudet/organisaatio/dokumentointi/koulutuskirjanpito)
+    * [3.6 Näytöshyppyohje](vaatimukset-oikeudet/organisaatio/naytoshyppy)
+        * [3.6.1 Yleistä](vaatimukset-oikeudet/organisaatio/naytoshyppy/yleista)
+        * [3.6.2 Näytöshyppyorganisaatio](vaatimukset-oikeudet/organisaatio/naytoshyppy/organisaatio)
+        * [3.6.3 Luvat, ilmoitukset ja ehdot](vaatimukset-oikeudet/organisaatio/naytoshyppy/luvat)
+        * [3.6.4 Näytöshyppyalueet ja -olosuhteet](vaatimukset-oikeudet/organisaatio/naytoshyppy/olosuhteet)
+        * [3.6.5 Näytöshypyn suoritus](vaatimukset-oikeudet/organisaatio/naytoshyppy/suoritus)
+        * 
+
+
+
 
 
 
