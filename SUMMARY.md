@@ -13,7 +13,7 @@
    * [Muualla hankitut kelpoisuudet](hyppaaja/ohjeet/hyppyrajat-varusteet/kelpoisuudet/muualla-hankitut.md)
        * [Oppilaan kelpoisuus](hyppaaja/ohjeet/hyppyrajat-varusteet/kelpoisuudet/oppilas.md)
        * [Kelpoisuuden muuttaminen](hyppaaja/ohjeet/hyppyrajat-varusteet/kelpoisuudet/muuttaminen.md)
-       * [Laskuvarjohyppykouluttajan kelpoisuudet](hyppaaja/ohjeet/hyppyrajat-varusteet/kelpoisuudet/kouluttaja)
+       * [Laskuvarjohyppykouluttajan kelpoisuudet](hyppaaja/ohjeet/hyppyrajat-varusteet/kelpoisuudet/kouluttaja.md)
    * [Vaaratilanteesta ilmoittaminen](hyppaaja/ohjeet/hyppyrajat-varusteet/vaaratilanteet/ilmoittaminen)
 * [Oppilas-, lisenssi- ja kouluttajavaatimukset sekä -oikeudet](vaatimukset-oikeudet)
    * [Oppilaan vaatimukset ja oikeudet](vaatimukset-oikeudet/oppilas)
