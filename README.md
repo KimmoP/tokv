@@ -4,9 +4,10 @@ Johdanto
 Laskuvarjohyppääjien toiminnalliset ohjeet ja kelpoisuusvaatimukset on kokoelma laskuvarjohyppyyn liittyviä säännöksiä ja toimintatapoja. Niiden tarkoituksena on antaa suuntaviivoja ja suosituksia laskuvarjohyppääjille ja laskuvarjohyppyorganisaatioiden toiminnalle.
 
 Ohjeet on jaettu kolmeen osaan:
+
 * Hyppääjää koskevat ohjeet
 * Oppilas-, lisenssi- ja kouluttajavaatimukset sekä oikeudet
-• Organisaation vaatimukset.
+* Organisaation vaatimukset.
 
 Ohjeita päivitetään tarvittaessa joka toinen vuosi. Päivityksestä vastaa Suomen Ilmailuliitto ry:n Laskuvarjotoimikunnan Koulutus- ja turvallisuuskomitea.
 Mikäli tässä ohjeessa mainitusta säännöksestä, lisenssistä tai kouluttajan kelpoisuudesta syntyy epäselvyyttä, asia voidaan siirtää SIL:n käsiteltäväksi ja ratkaistavaksi.
