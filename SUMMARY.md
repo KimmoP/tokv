@@ -23,7 +23,7 @@
        * [Tieto-, taito- ja kokemusvaatimukset](vaatimukset-oikeudet/oppilas/tietotaito.md)
        * [Oikeudet](vaatimukset-oikeudet/oppilas/oikeudet.md)
    * [Lisenssivaatimukset ja lisenssinhaltijan oikeudet](vaatimukset-oikeudet/lisenssit.md)
-       * [Lääketieteelliset vaatimukset](vaatimukset-oikeudet/lisenssit/laaketieteelliset)
+       * [Lääketieteelliset vaatimukset](vaatimukset-oikeudet/lisenssit/laaketieteelliset.md)
        * [Laskuvarjohyppääjän A-lisenssi](vaatimukset-oikeudet/lisenssit/a)
        * [Laskuvarjohyppääjän B-lisenssin vaatimukset, voimassaolo, toteaminen ja oikeudet](vaatimukset-oikeudet/lisenssit/b)
        * [Laskuvarjohyppääjän C-lisenssin vaatimukset, voimassaolo, toteaminen ja oikeudet](vaatimukset-oikeudet/lisenssit/c)
