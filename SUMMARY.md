@@ -29,7 +29,7 @@
        * [Laskuvarjohyppääjän C-lisenssin vaatimukset, voimassaolo, toteaminen ja oikeudet](vaatimukset-oikeudet/lisenssit/c.md)
        * [Laskuvarjohyppääjän D-lisenssin vaatimukset, voimassaolo, toteaminen ja oikeudet](vaatimukset-oikeudet/lisenssit/d.md)
    * [Kouluttajakelpoisuusvaatimukset, uusimisperiaatteet ja oikeudet](vaatimukset-oikeudet/kouluttaja)
-       * [Lääketieteelliset vaatimukset](vaatimukset-oikeudet/kouluttaja/laaketieteelliset)
+       * [Lääketieteelliset vaatimukset](vaatimukset-oikeudet/kouluttaja/laaketieteelliset.md)
        * [Vapaapudotuskouluttaja (VPK)](vaatimukset-oikeudet/kouluttaja/vpk)
        * [Pakkolaukaisuhyppymestari (PL-HM)](vaatimukset-oikeudet/kouluttaja/plhm)
        * [Novahyppymestari (NHM)](vaatimukset-oikeudet/kouluttaja/nhm)
