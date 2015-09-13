@@ -2,7 +2,7 @@
 
 * [Johdanto](README.md)
 * [Hyppääjää koskevat ohjeet](hyppaaja/ohjeet/Hyppaajaa-koskevat-ohjeet.md)
-   * [Ohjeet hyppyrajoista ja -varustuksesta](hyppaaja/ohjeet/hyppyrajat-varusteet)
+   * [Ohjeet hyppyrajoista ja -varustuksesta](hyppaaja/ohjeet/hyppyrajat-varusteet.md)
        * [Itsenäisen hyppääjän varusteista](hyppaaja/ohjeet/hyppyrajat-varusteet/itsenainen-hyppaaja.md)
        * [Oppilashyppääjän varusteet](hyppaaja/ohjeet/hyppyrajat-varusteet/oppilas.md)
        * [Siipikuormat](hyppaaja/ohjeet/hyppyrajat-varusteet/siipikuormat.md)
