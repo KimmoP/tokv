@@ -6,7 +6,7 @@
        * [Itsenäisen hyppääjän varusteista](hyppaaja/ohjeet/hyppyrajat-varusteet/itsenainen-hyppaaja.md)
        * [Oppilashyppääjän varusteet](hyppaaja/ohjeet/hyppyrajat-varusteet/oppilas.md)
        * [Siipikuormat](hyppaaja/ohjeet/hyppyrajat-varusteet/siipikuormat.md)
-       * [Kamerahyppääminen](hyppaaja/ohjeet/hyppyrajat-varusteet/kamerahyppaaminen)
+       * [Kamerahyppääminen](hyppaaja/ohjeet/hyppyrajat-varusteet/kamerahyppaaminen.md)
        * [Liitopukuhyppääminen](hyppaaja/ohjeet/hyppyrajat-varusteet/liitopukuhyppaaminen)
        * [Muu erikoishyppääminen](hyppaaja/ohjeet/hyppyrajat-varusteet/muu-erikoishyppaaminen)
    * [Tuulirajat](hyppaaja/ohjeet/hyppyrajat-varusteet/tuulirajat.md)
