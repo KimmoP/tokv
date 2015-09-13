@@ -48,3 +48,5 @@
        * [Näytöshypyn suoritus](vaatimukset-oikeudet/organisaatio/naytoshyppy/suoritus)
        * [Vaatimuksia hyppääjälle ja kalustolle](vaatimukset-oikeudet/organisaatio/naytoshyppy/hyppaaja-kalusto)
 
+[Liitteet](liitteet)
+
