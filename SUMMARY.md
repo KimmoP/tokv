@@ -19,7 +19,7 @@
    * [Oppilaan vaatimukset ja oikeudet](vaatimukset-oikeudet/oppilas.md)
        * [Ikä](vaatimukset-oikeudet/oppilas/ika.md)
        * [Lääketieteelliset vaatimukset](vaatimukset-oikeudet/oppilas/laaketieteelliset.md)
-       * [Kelpoisuusluokan toteaminen](vaatimukset-oikeudet/oppilas/kelpoisuus)
+       * [Kelpoisuusluokan toteaminen](vaatimukset-oikeudet/oppilas/kelpoisuus.md)
        * [Tieto-, taito- ja kokemusvaatimukset](vaatimukset-oikeudet/oppilas/tietotaito)
        * [Oikeudet](vaatimukset-oikeudet/oppilas/oikeudet)
    * [Lisenssivaatimukset ja lisenssinhaltijan oikeudet](vaatimukset-oikeudet/lisenssit)
