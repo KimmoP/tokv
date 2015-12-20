@@ -56,7 +56,7 @@ Mikäli kuitenkin haluat olla vähän näppärämpi, niin lue alkuun [markdown](
 Jos haluat lisätä artikkeliin kuvia niin toimi seuraavasti:
 
 1. Klikkaa vasemmalta Files Tree-osion alta kuvat-hakemistoa hiiren oikeanpuoleisella napilla
-2. Valitse valikosta Upload<br>![kuvalisays](kuvat/ohje-kuvalisays.png)
+2. Valitse valikosta Upload<br>![kuvalisays](ohje-kuvalisays.png)
 3. Valitse tietokoneeltasi kuva, jonka haluat lisätä
 4. Kun tiedosto on latautunut, voit nimetä sen uudelleen (kuvaavammaksi) klikkaamalla hiiren oikeanpuoleista nappia tiedoston kohdalla ja painamalla Rename..
 5. Voit lisätä kuvan tekstiin seuraavalla 'koodilla':
@@ -70,7 +70,7 @@ Jokainen muutos tehdään omaan haaraan (branch). Master-haara on se haara, joka
 
 Toimintaohjeet:
 
-1. Klikkaa branch-valikosta:<br>![branch](kuvat/ohje-branch.png)
+1. Klikkaa branch-valikosta:<br>![branch](ohje-branch.png)
 2. Valitse New Branch
 3. Anna branchille kuvaava nimi
 4. Uusi branch on nyt luotu, näet että se on valittuna branch-valikossa
