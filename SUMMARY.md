@@ -46,6 +46,6 @@
        * [Näytöshyppyorganisaatio](vaatimukset-oikeudet/organisaatio/naytoshyppy/organisaatio.md)
        * [Luvat, ilmoitukset ja ehdot](vaatimukset-oikeudet/organisaatio/naytoshyppy/luvat.md)
        * [Näytöshyppyalueet ja -olosuhteet](vaatimukset-oikeudet/organisaatio/naytoshyppy/olosuhteet.md)
-       * [Näytöshypyn suoritus](vaatimukset-oikeudet/organisaatio/naytoshyppy/suoritus)
+       * [Näytöshypyn suoritus](vaatimukset-oikeudet/organisaatio/naytoshyppy/suoritus.md)
        * [Vaatimuksia hyppääjälle ja kalustolle](vaatimukset-oikeudet/organisaatio/naytoshyppy/hyppaaja-kalusto)
 
