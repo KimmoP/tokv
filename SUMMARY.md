@@ -39,7 +39,7 @@
    * [Hyppytoiminnnan ja -turvallisuuden valvominen](vaatimukset-oikeudet/organisaatio/toiminta-turvallisuus.md)
    * [Koulutusilmoitus](vaatimukset-oikeudet/organisaatio/koulutusilmoitus.md)
    * [Koulutusorganisaatio](vaatimukset-oikeudet/organisaatio/koulutusorganisaatio.md)
-   * [Organisaation hyppytoiminnan dokumentointi](vaatimukset-oikeudet/organisaatio/dokumentointi)
+   * [Organisaation hyppytoiminnan dokumentointi](vaatimukset-oikeudet/organisaatio/dokumentointi.md)
        * [Koulutuskirjanpito](vaatimukset-oikeudet/organisaatio/dokumentointi/koulutuskirjanpito)
    * [Näytöshyppyohje](vaatimukset-oikeudet/organisaatio/naytoshyppy)
        * [Yleistä](vaatimukset-oikeudet/organisaatio/naytoshyppy/yleista)
