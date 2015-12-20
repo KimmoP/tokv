@@ -40,7 +40,7 @@
    * [Koulutusilmoitus](vaatimukset-oikeudet/organisaatio/koulutusilmoitus.md)
    * [Koulutusorganisaatio](vaatimukset-oikeudet/organisaatio/koulutusorganisaatio.md)
    * [Organisaation hyppytoiminnan dokumentointi](vaatimukset-oikeudet/organisaatio/dokumentointi.md)
-       * [Koulutuskirjanpito](vaatimukset-oikeudet/organisaatio/dokumentointi/koulutuskirjanpito)
+       * [Koulutuskirjanpito](vaatimukset-oikeudet/organisaatio/dokumentointi/koulutuskirjanpito.md)
    * [Näytöshyppyohje](vaatimukset-oikeudet/organisaatio/naytoshyppy)
        * [Yleistä](vaatimukset-oikeudet/organisaatio/naytoshyppy/yleista)
        * [Näytöshyppyorganisaatio](vaatimukset-oikeudet/organisaatio/naytoshyppy/organisaatio)
