@@ -43,7 +43,7 @@
        * [Koulutuskirjanpito](vaatimukset-oikeudet/organisaatio/dokumentointi/koulutuskirjanpito.md)
    * [Näytöshyppyohje](vaatimukset-oikeudet/organisaatio/naytoshyppy)
        * [Yleistä](vaatimukset-oikeudet/organisaatio/naytoshyppy/yleista.md)
-       * [Näytöshyppyorganisaatio](vaatimukset-oikeudet/organisaatio/naytoshyppy/organisaatio)
+       * [Näytöshyppyorganisaatio](vaatimukset-oikeudet/organisaatio/naytoshyppy/organisaatio.md)
        * [Luvat, ilmoitukset ja ehdot](vaatimukset-oikeudet/organisaatio/naytoshyppy/luvat)
        * [Näytöshyppyalueet ja -olosuhteet](vaatimukset-oikeudet/organisaatio/naytoshyppy/olosuhteet)
        * [Näytöshypyn suoritus](vaatimukset-oikeudet/organisaatio/naytoshyppy/suoritus)
