@@ -38,7 +38,7 @@
    * [Hyppypaikalle ja maalialueelle asetetut vaatimukset](vaatimukset-oikeudet/organisaatio/hyppypaikka.md)
    * [Hyppytoiminnnan ja -turvallisuuden valvominen](vaatimukset-oikeudet/organisaatio/toiminta-turvallisuus.md)
    * [Koulutusilmoitus](vaatimukset-oikeudet/organisaatio/koulutusilmoitus.md)
-   * [Koulutusorganisaatio](vaatimukset-oikeudet/organisaatio/koulutusorganisaatio)
+   * [Koulutusorganisaatio](vaatimukset-oikeudet/organisaatio/koulutusorganisaatio.md)
    * [Organisaation hyppytoiminnan dokumentointi](vaatimukset-oikeudet/organisaatio/dokumentointi)
        * [Koulutuskirjanpito](vaatimukset-oikeudet/organisaatio/dokumentointi/koulutuskirjanpito)
    * [Näytöshyppyohje](vaatimukset-oikeudet/organisaatio/naytoshyppy)
