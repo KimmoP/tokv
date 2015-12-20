@@ -1,0 +1,1 @@
+Kouluttavan organisaation muodostavat koulutuksesta vastaava henkilö eli koulutuspäällikkö, kalustopäällikkö ja turvallisuuspäällikkö sekä kouluttajat. Sama henkilö voi toimia useammassa tehtävässä. Koulutusorganisaation jäsenten on annettava kirjalliset suostumukset tehtäviinsä.
