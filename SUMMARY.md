@@ -35,7 +35,7 @@
        * [Novahyppymestari (NHM)](vaatimukset-oikeudet/kouluttaja/nhm.md)
        * [Tandemhyppymestari (THM)](vaatimukset-oikeudet/kouluttaja/thmmd.md)
 * [Organisaation vaatimukset](vaatimukset-oikeudet/organisaatio.md)
-   * [Hyppypaikalle ja maalialueelle asetetut vaatimukset](vaatimukset-oikeudet/organisaatio/hyppypaikka)
+   * [Hyppypaikalle ja maalialueelle asetetut vaatimukset](vaatimukset-oikeudet/organisaatio/hyppypaikka.md)
    * [Hyppytoiminnnan ja -turvallisuuden valvominen](vaatimukset-oikeudet/organisaatio/toiminta-turvallisuus)
    * [Koulutusilmoitus](vaatimukset-oikeudet/organisaatio/koulutusilmoitus)
    * [Koulutusorganisaatio](vaatimukset-oikeudet/organisaatio/koulutusorganisaatio)
