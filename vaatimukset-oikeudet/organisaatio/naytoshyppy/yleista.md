@@ -1,0 +1,1 @@
+Tämä ohje koskee Suomen alueella järjestettäviä laskuvarjonäytöshyppyjä riippumatta siitä, suoritetaanko ne lentonäytösten yhteydessä tai erillisenä ohjelmasuorituksena muussa kuin ilmailutilaisuudessa. Niiltä osin, mistä tässä ei ole ohjeita, on noudatettava laskuvarjohyppyjä koskevia yleisiä ohjeita ja ilmailumääräyksiä.
