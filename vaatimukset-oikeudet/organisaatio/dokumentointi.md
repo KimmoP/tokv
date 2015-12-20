@@ -1,0 +1,1 @@
+Hyppytoimintaa järjestävän organisaation tulee pitää kirjaa hyppymääristään ja raportoida ne SIL:lle yhteisten valtakunnallisten ja kansainvälisten tilastojen täydentämiseksi. Hyppymääriä ja tietoja hyödynnetään vuosittaisessa Vaaratilannekoosteessa, joka on tähän mennessä esitetty Turpaboogiessa.
