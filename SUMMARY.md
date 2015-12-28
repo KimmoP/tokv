@@ -1,6 +1,7 @@
 # Toiminnalliset ohjeet ja kelpoisuusvaatimukset
 
 ## TOKV
+
 * [Johdanto](README.md)
 * [Hyppääjää koskevat ohjeet](hyppaaja/ohjeet/Hyppaajaa-koskevat-ohjeet.md)
    * [Ohjeet hyppyrajoista ja -varustuksesta](hyppaaja/ohjeet/hyppyrajat-varusteet.md)
@@ -51,5 +52,6 @@
        * [Vaatimuksia hyppääjälle ja kalustolle](vaatimukset-oikeudet/organisaatio/naytoshyppy/hyppaaja-kalusto.md)
 
 ## Liitteet
+
 * [Liitteet](liitteet.md)
 
