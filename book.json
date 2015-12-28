@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "multipart"
+        "-multipart"
     ],
     "pluginsConfig": {}
 }
